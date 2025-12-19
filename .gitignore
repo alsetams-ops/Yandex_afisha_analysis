@@ -1,0 +1,26 @@
+# secrets
+.env
+.env.*
+
+# data
+data/
+*.csv
+*.xlsx
+*.parquet
+*.json
+
+# notebooks
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# venv
+.venv/
+venv/
+env/
+
+# logs
+*.log
