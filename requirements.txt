@@ -4,5 +4,5 @@ matplotlib
 seaborn
 sqlalchemy
 psycopg2-binary
-python-dotenv
 phik
+python-dotenv
